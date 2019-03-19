@@ -19,3 +19,12 @@ h1 .text-primary {
 	letter-spacing: -0.05rem;
 	line-height: 3rem;
 }
+
+.bg-primary {
+  background-color: #143300;
+  background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
+}
+
+.graph_set {
+	margin-top: 3rem;
+}
