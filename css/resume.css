@@ -176,7 +176,8 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: background-color: #143300 !important;
+  background-color: #143300;
+  background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
 }
 
 .text-primary {
