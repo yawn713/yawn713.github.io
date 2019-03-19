@@ -21,8 +21,9 @@ h1 .text-primary {
 }
 
 .bg-primary {
-	background-color: #143300 !importent;
+	background-color: #001f36 !importent;
 	background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 
 .graph_set {
